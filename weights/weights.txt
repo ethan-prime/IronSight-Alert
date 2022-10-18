@@ -1,0 +1,10 @@
+Weights can be downloaded via these links:
+
+9 epochs (BEST, RECOMMENDED):
+https://www.mediafire.com/file/291b1dsi441bztx/51k-9epochs_-_MAIN-BEST.pt/file
+
+5 epochs:
+https://www.mediafire.com/file/g2p93s3lazynrjr/51k-5epochs.pt/file
+
+12 epochs:
+https://www.mediafire.com/file/b7vyk8aw2a076lu/51k-12epochs.pt/file
