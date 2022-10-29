@@ -24,7 +24,15 @@
 
 # Alerts
 
-## SMS Alerts can be enabled by providing the parameter --send_alert True. Once the alert server is setup and Twilio account information is provided in the [.env](alerts/.env) file, alerts can be sent.
+## SMS Alerts can be enabled by providing the parameter `--send_alert True`. Once the alert server is setup and Twilio account information is provided in the [.env](alerts/.env) file, alerts can be sent.
 
 ## Example Alerts: 
 ![alt text](assets/IMG_7891.PNG)
+
+# Weights
+
+## Weights for the AI model can be downloaded here.
+### [9 epochs (best)](https://www.mediafire.com/file/291b1dsi441bztx/51k-9epochs_-_MAIN-BEST.pt/file)  
+### [5 epochs](https://www.mediafire.com/file/g2p93s3lazynrjr/51k-5epochs.pt/file)  
+### [12 epochs](https://www.mediafire.com/file/b7vyk8aw2a076lu/51k-12epochs.pt/file)  
+
